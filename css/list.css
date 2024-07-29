@@ -5,3 +5,7 @@ li{
 h1{
     text-transform: capitalize;
 }
+
+h2{
+    border:2px solid red;
+}
